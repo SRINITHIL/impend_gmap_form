@@ -1,0 +1,126 @@
+iframe{
+    padding-left: 30px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-right: 30px;
+    border: 40px;
+    border-radius: 12%;
+    border-color: rgb(32, 32, 70);
+    background-color:springgreen;
+    border-style: hidden;
+}
+header{
+    text-align: center;
+    color:seashell;
+    background-color: midnightblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+}
+footer{
+    text-align: center;
+    color:seashell;
+    background-color: midnightblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+body{
+    background-color: rgb(32, 32, 70);
+    color:whitesmoke;
+}
+/* body{ 
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding:50px;
+    padding-top:70px;
+}
+div{
+
+    display:block;
+    background-color:tomato;
+    width:40px;
+    height:40px;
+    align-items:center;
+    justify-content:center;
+    padding:40px;
+    order: ;
+}
+<!-- details -->
+      <details>
+        <summary>apple</summary>
+        <p>tis iuytresx dfghjkjhgffghj apple details</p>
+      </details>
+      <!-- address bar -->
+      <address>address bar used to show address</address>
+      <!-- form -->
+     <form action="home.html" method="POST" enctype="multipart/form-data" autocomplete="off">
+       <input type="text" name="my name"><br>
+       <input type="password"name="password"><br>
+       <input type="number" name=""id="" min="10" max="10"><br>
+       <button type="submit">submit the form</button><br>
+       <button type="reset">reset</button>
+     </form>
+     <h3>shadow</h3>
+     <!-- print as it in paragraph -->
+     <pre>
+         a=10
+         for i in range(a):
+       print(i)
+     </pre>
+     <!-- marwuee tag -->
+      <marquee behavior="scroll" scrollamount=4 >this site is under construction</marquee><br><br><br><br><br><br>
+      <!-- nav tag -->
+      <nav>
+
+      </nav>
+      <!-- header tag -->
+      <header>
+
+      </header>
+      <!-- footer tag -->
+      <footer>
+
+      </footer>
+      <!-- section tag -->
+      <section>
+
+      </section>
+      <!-- span tag -->
+      <span>
+
+      </span>
+      <!-- aside tag no use -->
+      <aside>
+
+      </aside>
+      <div>
+
+      </div>
+      marquee{
+    color: darkorange;
+    background-color: chartreuse;
+    height:100px;
+    padding-top:40px;
+    font-size: 30px;
+    background-image: url("https://cutewallpaper.org/21/solid-background-hd/solid-wallpapers-fabricplus.co.jpg");
+    
+
+}
+h3{
+    color:red;
+    width: ;
+    text-shadow: 2px 2px 5px yellow;
+    /* x y blur color */
+}
+/*div{
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    box-shadow: 5px 4px 10px 40px gold;
+    /*  _____ blur spred radiysus color 
+    border-radius:50%;
+    inset: 5px 6px  5px black;  
+}
